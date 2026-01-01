@@ -27,13 +27,15 @@
 
 # How to Run
 
-## Frontend (Spring Boot)
+## Backend (Spring Boot)
 ```bash
 cd frontend
 mvnw.cmd spring-boot:run  # Windows
+```
 
-## Backend (Spring Boot)
+## Frontend (React)
+```bash
 cd backend
 npm install
 npm run dev
-
+```
